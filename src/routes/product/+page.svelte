@@ -1,3 +1,5 @@
-<h1 class="text-xl">
-    product
-</h1>
+<script>
+    import bgLogin from "../src/components/bgLogin.svelte";
+</script>
+
+<bgLogin /> 
